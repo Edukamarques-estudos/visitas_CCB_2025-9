@@ -1,42 +1,47 @@
 body{
-line-height: 1px;
-background-color: rgb(243, 237, 237);
-text-align: center;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    background-color: rgb(231, 227, 227);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
 
 header{
-    line-height: 17px;
-    padding: 15px;
-font-size: 15px;
-text-align: center;
-
+    display: block;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    background-color: rgb(231, 227, 227);
+    line-height: 10px;
 }
-
-.negrito{
-font-weight: bold;}
-
-.irmao{
-padding-bottom: 10px;
-font-weight: bold;
-text-decoration: underline;}
-
-.datas{
-padding: 10px;
-border-bottom: 1px black dotted;
-text-align: left;
-}
-
 
 img{
-padding: 20px;
-height: 160px;}
+width: 230px;
+}
 
-.span{
-width: 50px;
-height: 50px;
-border-radius: 50%;}
+h3{
+    background-color: darkgrey;
+    line height: 25px;
+}
 
-.background{
-    line-height: normal;
-    background-color: rgb(206, 197, 197);
+.destaque{
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p{
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+}
+
+div{
+    border-bottom: 1px black dotted;
+}
+
+h2{
+    background-color: rgb(176, 198, 199);
+    line-height: 21px;
 }
