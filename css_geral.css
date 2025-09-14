@@ -7,7 +7,10 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 header{
     line-height: 10px;
 text-align: center;
-border-bottom: 1px black dotted;}
+border-bottom: 1px black dotted;
+font-size: ;10px;
+}
+
 
 .negrito{
 font-weight: bold;}
@@ -32,5 +35,6 @@ height: 160px;}
 width: 50px;
 height: 50px;
 border-radius: 50%;}
+
 
 
