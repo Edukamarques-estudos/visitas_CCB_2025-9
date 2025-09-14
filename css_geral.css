@@ -49,3 +49,10 @@ h2{
 .endereço{
     font-size: small;
 }
+
+ul{
+ display: flex;
+ justify-content: space-between;
+ list-style-type: none;
+ align-items: center;
+}
